@@ -46,7 +46,7 @@ class Portfolio extends BaseController
         if ($this->isMobile())
             return redirect()->to('/mobile#work');
         $data = [
-            'title' => 'My Work - Portfolio',
+            'title' => 'Projects - Portfolio',
             'page' => 'my_work'
         ];
         return view('layout/main', $data);

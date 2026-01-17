@@ -4,7 +4,7 @@
     <!-- Item 1 (Oldest): CV. Dako Indonesia -->
     <div class="timeline-item">
         <h3>Web & Game Developer (Internship)</h3>
-        <h4 style="color: #b0c4de; font-weight: 400;">CV. Dako Indonesia | 14 Juni - 27 Desember 2023</h4>
+        <h4 style="color: #b0c4de; font-weight: 400;">CV. Dako Indonesia | June 14 - December 27, 2023</h4>
         <ul style="margin-top: 0.5rem; padding-left: 1.2rem; color: #d6d6d6;">
             <li>Wordpress Maintenance.</li>
             <li>SEO Marketing Bloggers.</li>
@@ -15,10 +15,10 @@
     <!-- Item 2: Hotel Dewarna Sutoyo -->
     <div class="timeline-item">
         <h3>IT Staff Hotel (Full Time)</h3>
-        <h4 style="color: #b0c4de; font-weight: 400;">Hotel Dewarna Sutoyo | 11 Juni - 20 Januari 2024/2025</h4>
+        <h4 style="color: #b0c4de; font-weight: 400;">Hotel Dewarna Sutoyo | June 11 - January 20, 2024/2025</h4>
         <ul style="margin-top: 0.5rem; padding-left: 1.2rem; color: #d6d6d6;">
             <li>IT Support.</li>
-            <li>Pengembangan Maintenance Server Hotel.</li>
+            <li>Hotel Server Maintenance & Development.</li>
             <li>Content Creator.</li>
         </ul>
     </div>
@@ -26,25 +26,32 @@
     <!-- Item 3: PT. Assist Software Indonesia -->
     <div class="timeline-item">
         <h3>Web Programmer (Full Time)</h3>
-        <h4 style="color: #b0c4de; font-weight: 400;">PT. Assist Software Indonesia | 1 Februari - 19 Juni 2025</h4>
+        <h4 style="color: #b0c4de; font-weight: 400;">PT. Assist Software Indonesia | February 1 - June 19, 2025</h4>
         <ul style="margin-top: 0.5rem; padding-left: 1.2rem; color: #d6d6d6;">
-            <li>Mengembangkan aplikasi perbankan BPR dan koperasi berbasis MVC dengan Laravel, serta aplikasi berbasis PHP, Ajax, dan JavaScript.</li>
-            <li>Membangun dan menambahkan fitur-fitur sesuai regulasi OJK atau permintaan manajemen untuk sistem BPR/Koperasi.</li>
-            <li>Melakukan maintenance dan DevOps, termasuk problem solving untuk error, bug fixing, dan penyempurnaan fitur di aplikasi perbankan.</li>
-            <li>Berkontribusi pada pengembangan modul baru, laporan keuangan, dan integrasi sistem internal perbankan.</li>
-            <li>Bekerja sama dengan tim untuk memastikan aplikasi berjalan lancar dan sesuai standar keamanan perbankan.</li>
+            <li>Developing banking applications for BPR and Cooperatives based on MVC with Laravel, as well as PHP,
+                Ajax, and JavaScript applications.</li>
+            <li>Building and adding features according to OJK regulations or management requests for BPR/Cooperative
+                systems.</li>
+            <li>Performing maintenance and DevOps, including problem-solving for errors, bug fixing, and feature
+                refinement in banking applications.</li>
+            <li>Contributing to the development of new modules, financial reports, and internal banking system
+                integration.</li>
+            <li>Collaborating with the team to ensure applications run smoothly and comply with banking security
+                standards.</li>
         </ul>
     </div>
 
     <!-- Item 4 (Newest): PT. Twenty Four Hours -->
     <div class="timeline-item">
         <h3>Web Programmer (Full Time)</h3>
-        <h4 style="color: #b0c4de; font-weight: 400;">PT. Twenty Four Hours | 1 Juli - 10 November 2025</h4>
+        <h4 style="color: #b0c4de; font-weight: 400;">PT. Twenty Four Hours | July 1 - November 10, 2025</h4>
         <ul style="margin-top: 0.5rem; padding-left: 1.2rem; color: #d6d6d6;">
-            <li>Pengembangan Website Company Profile Menggunakan Sistem Wordpress, dan HTML/CSS/JS.</li>
-            <li>Maintenance setiap hari dari hasil website sesuai yang disepakati untuk penambahan atau pun pengurangan pada fitur atau tampilan Website.</li>
-            <li>Bekerjasama dengan Tim Desain dan Konten agar hasil sesuai dengan branding dan tujuan Company Profile/Bisnis Perusahaan.</li>
-            <li>Pengoptimalan/Maintenance rutin dari sisi Front-end.</li>
+            <li>Developing Company Profile Websites using Wordpress System, and HTML/CSS/JS.</li>
+            <li>Daily maintenance of resulting websites as agreed for meaningful additions or reductions in website
+                features or appearance.</li>
+            <li>Collaborating with Design and Content Teams to ensure results align with Company Profile branding and
+                business goals.</li>
+            <li>Routine Front-end optimization/maintenance.</li>
         </ul>
     </div>
 </div>

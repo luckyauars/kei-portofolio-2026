@@ -2,7 +2,7 @@
     <a href="#about" class="mobile-link" data-target="about">About Me</a>
     <a href="#education" class="mobile-link" data-target="education">Education</a>
     <a href="#experience" class="mobile-link" data-target="experience">Experience</a>
-    <a href="#work" class="mobile-link" data-target="work">My Work</a>
+    <a href="#work" class="mobile-link" data-target="work">Projects</a>
 </div>
 
 <div class="mobile-container" style="padding-top: 50px;">
@@ -102,27 +102,27 @@
 
         const observerOptions = {
             root: null,
-        const observerOptions = {
-            root: null,
-            rootMargin: '-20% 0px -60% 0px',
-            threshold: 0
-        };
+            const observerOptions = {
+                root: null,
+                rootMargin: '-20% 0px -60% 0px',
+                threshold: 0
+            };
             threshold: 0
         };
 
         const observer = new IntersectionObserver((entries) => {
             entries.forEach(entry => {
                 if (entry.isIntersecting) {
-                if (entry.isIntersecting) {
-                    navLinks.forEach(link => link.classList.remove('active'));
+                    if (entry.isIntersecting) {
+                        navLinks.forEach(link => link.classList.remove('active'));
 
-                    const id = entry.target.getAttribute('id');
-                    const activeLink = document.querySelector(`.mobile-link[href="#${id}"]`);
-                    if (activeLink) {
-                        activeLink.classList.add('active');
+                        const id = entry.target.getAttribute('id');
+                        const activeLink = document.querySelector(`.mobile-link[href="#${id}"]`);
+                        if (activeLink) {
+                            activeLink.classList.add('active');
+                        }
                     }
-                }
-            });
+                });
         }, observerOptions);
 
         sections.forEach(section => {

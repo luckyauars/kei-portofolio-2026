@@ -30,7 +30,8 @@
                         class="<?= ($page == 'education') ? 'active' : ''; ?>">Education</a></li>
                 <li><a href="<?= base_url('/experience'); ?>"
                         class="<?= ($page == 'experience') ? 'active' : ''; ?>">Experience</a></li>
-                <li><a href="<?= base_url('/work'); ?>" class="<?= ($page == 'my_work') ? 'active' : ''; ?>">My Work</a>
+                <li><a href="<?= base_url('/work'); ?>"
+                        class="<?= ($page == 'my_work') ? 'active' : ''; ?>">Projects</a>
                 </li>
             </ul>
         </div>

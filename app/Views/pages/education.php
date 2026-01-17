@@ -4,14 +4,14 @@
     <!-- Item 1 (Oldest): SMP -->
     <div class="timeline-item">
         <h3>SMP Negeri 3 Malang</h3>
-        <h4 style="color: #b0c4de; font-weight: 400;">Lulus | 2018 - 2021</h4>
-        <p>Menyelesaikan pendidikan sekolah menengah pertama.</p>
+        <h4 style="color: #b0c4de; font-weight: 400;">Graduated | 2018 - 2021</h4>
+        <p>Completed junior high school education.</p>
     </div>
 
     <!-- Item 2 (Newest): SMK -->
     <div class="timeline-item">
         <h3>SMK Negeri 5 Malang</h3>
-        <h4 style="color: #b0c4de; font-weight: 400;">Rekayasa Perangkat Lunak (PPLG) | 2021 - 2024</h4>
-        <p>Fokus pada pengembangan perangkat lunak dan pemrograman (Software Engineering).</p>
+        <h4 style="color: #b0c4de; font-weight: 400;">Software Engineering (PPLG) | 2021 - 2024</h4>
+        <p>Focused on software development and programming (Software Engineering).</p>
     </div>
 </div>

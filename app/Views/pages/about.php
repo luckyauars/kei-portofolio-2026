@@ -12,21 +12,19 @@
         <!-- Text Content -->
         <div style="flex: 1; min-width: 300px;">
             <p style="margin-bottom: 1rem; font-size: 1.1rem; line-height: 1.8;">
-                Perkenalkan saya <strong>Lucky Aulia Arisdi</strong>.
+                Hi, I'm <strong>Kei</strong>.
             </p>
             <p style="margin-bottom: 1rem; line-height: 1.8;">
-                Saya adalah lulusan <strong>SMK Negeri 5 Malang</strong> tahun 2024 dari jurusan Rekayasa Perangkat
-                Lunak (PPLG).
-                Sejak masa sekolah, saya sudah sangat tertarik dengan dunianya pemrograman. Saat ini, fokus utama saya
-                adalah
-                mengembangkan keahlian di bidang <strong>Website Development</strong>, <strong>Game
-                    Development</strong>, serta
-                <strong>System Maintenance</strong>.
+                I am a passionate <strong>Web & Game Developer</strong> focused on building efficient systems.
             </p>
             <p style="margin-bottom: 1rem; line-height: 1.8;">
-                Saya senang mempelajari teknologi baru dan selalu berusaha memberikan hasil terbaik di setiap proyek
-                yang saya kerjakan,
-                baik itu membangun sistem yang efisien maupun menciptakan pengalaman digital yang menarik.
+                Unlike many who just write code, I specialize in <strong>System Maintenance</strong> and ensuring
+                applications run smoothly without errors. Whether it's fixing a broken PHP script or optimizing a slow
+                database, I deliver results, not just promises.
+            </p>
+            <p style="margin-bottom: 1rem; line-height: 1.8;">
+                Currently sharpening my skills in <strong>Laravel, CI, and Modern Web Technologies</strong> to help your
+                business grow.
             </p>
         </div>
     </div>
